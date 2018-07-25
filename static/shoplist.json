@@ -1,0 +1,427 @@
+{
+  "code": 1000,
+  "message": "获取成功",
+  "data": {
+    "marketingId": 2,
+    "activityId": 47,
+    "type": 1,
+    "activityName": "食品生鲜头部",
+    "mainImageUrl": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/0/201807/05/201807051908143164.jpg",
+    "subImageUrl": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/0/201807/06/201807060850186072.jpg",
+    "linkUrl": "",
+    "goodsList": [
+      {
+        "goodsId": 3145058,
+        "goodsTitle": "新西兰 手锤儿童牛排/嘻客小牛 170g*5",
+        "price": "149.50",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051652094821.jpg",
+        "sortId": 69,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145058"
+      },
+      {
+        "goodsId": 3147171,
+        "goodsTitle": "云南薄皮核桃5斤",
+        "price": "84.50",
+        "quantity": 486,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052228484160.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147171"
+      },
+      {
+        "goodsId": 3147170,
+        "goodsTitle": "五谷杂粮5斤(黑豆，绿豆，红豆，豇豆，小米各一袋）",
+        "price": "58.00",
+        "quantity": 499,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052212166503.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147170"
+      },
+      {
+        "goodsId": 3147169,
+        "goodsTitle": "一级中宁红枸杞1斤（袋装）",
+        "price": "68.00",
+        "quantity": 487,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052202436399.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147169"
+      },
+      {
+        "goodsId": 3147168,
+        "goodsTitle": "一级灰枣5斤",
+        "price": "78.00",
+        "quantity": 488,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052149492823.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147168"
+      },
+      {
+        "goodsId": 3147165,
+        "goodsTitle": "杂粮I套餐（黑米，燕麦，红豆，绿豆，黑豆，小米各半斤，共3斤）",
+        "price": "45.00",
+        "quantity": 487,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052111257748.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147165"
+      },
+      {
+        "goodsId": 3147164,
+        "goodsTitle": "有机认证袋装葛片200克买一送一（泡茶）",
+        "price": "88.00",
+        "quantity": 500,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052053091751.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147164"
+      },
+      {
+        "goodsId": 3147161,
+        "goodsTitle": "御品稻花香10斤",
+        "price": "75.80",
+        "quantity": 452,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052014546986.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147161"
+      },
+      {
+        "goodsId": 3145099,
+        "goodsTitle": "有机认证长粒香10斤",
+        "price": "68.80",
+        "quantity": 9931,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/06/201806061057126566.png",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145099"
+      },
+      {
+        "goodsId": 3147451,
+        "goodsTitle": "大希地 心心念大鸡排6袋套餐 900g",
+        "price": "68.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161643000297.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147451"
+      },
+      {
+        "goodsId": 3147450,
+        "goodsTitle": "天维美 维生素C咀嚼片90粒 90粒/瓶",
+        "price": "149.00",
+        "quantity": 98,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161644359689.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147450"
+      },
+      {
+        "goodsId": 3147449,
+        "goodsTitle": "桃渊茗 万里茶道&#183;  正山小种 250g",
+        "price": "99.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161645246258.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147449"
+      },
+      {
+        "goodsId": 3147448,
+        "goodsTitle": "奔富酒园 PENFOLDS麦克斯赫彩干红葡萄酒 750ml",
+        "price": "368.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161646231734.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147448"
+      },
+      {
+        "goodsId": 3147447,
+        "goodsTitle": "顶诺 家庭原切牛排6片装 700g",
+        "price": "199.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161647002520.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147447"
+      },
+      {
+        "goodsId": 3147446,
+        "goodsTitle": "潮香村 澳洲原切牛排6片套餐赠4片鸡排 800g",
+        "price": "188.00",
+        "quantity": 99,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161648395502.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147446"
+      },
+      {
+        "goodsId": 3147445,
+        "goodsTitle": "爱阁食品 智利鸡翅中 1000g",
+        "price": "59.90",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161649163006.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147445"
+      },
+      {
+        "goodsId": 3147442,
+        "goodsTitle": "U选一品 每日坚果 25g*20",
+        "price": "138.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/16/201807161649570826.jpg",
+        "sortId": 99,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3147442"
+      },
+      {
+        "goodsId": 3146706,
+        "goodsTitle": "【预售7月13号发货】云南昭通绥江半边红李子，1.5kg*1盒",
+        "price": "19.90",
+        "quantity": 4822,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807051635323314.jpg",
+        "sortId": 128,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146706"
+      },
+      {
+        "goodsId": 3146292,
+        "goodsTitle": "臻味 天天坚果脸谱版 675g",
+        "price": "169.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152110490156.jpg",
+        "sortId": 162,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146292"
+      },
+      {
+        "goodsId": 3146289,
+        "goodsTitle": "GUOLIAN 马来西亚 黑虎虾 36/40 800g",
+        "price": "119.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152115336773.jpg",
+        "sortId": 170,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146289"
+      },
+      {
+        "goodsId": 3146288,
+        "goodsTitle": "波路梦 什锦黄油味曲奇饼干礼盒 297.6g",
+        "price": "59.90",
+        "quantity": 200,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152116052089.jpg",
+        "sortId": 171,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146288"
+      },
+      {
+        "goodsId": 3146284,
+        "goodsTitle": "磨米世家 五常稻花香大米 5kg",
+        "price": "118.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152124449364.jpg",
+        "sortId": 197,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146284"
+      },
+      {
+        "goodsId": 3146306,
+        "goodsTitle": "百龄坛 特醇苏格兰威士忌 200ml",
+        "price": "49.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152059408636.jpg",
+        "sortId": 287,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146306"
+      },
+      {
+        "goodsId": 3145061,
+        "goodsTitle": "澳大利亚 草饲S级板腱牛扒 /文德丰 200g*4",
+        "price": "159.60",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051646321192.jpg",
+        "sortId": 343,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145061"
+      },
+      {
+        "goodsId": 3146303,
+        "goodsTitle": "龙宝龙Le Blanc 葵花籽油 1L",
+        "price": "29.90",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152102510079.jpg",
+        "sortId": 351,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146303"
+      },
+      {
+        "goodsId": 3145057,
+        "goodsTitle": "加拿大 多肉猪棒骨/八戒有肉 600g*4",
+        "price": "119.20",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051654241870.jpg",
+        "sortId": 394,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145057"
+      },
+      {
+        "goodsId": 3146290,
+        "goodsTitle": "爱吃鱼 臻选挪威三文鱼切片 250g",
+        "price": "59.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152113221435.jpg",
+        "sortId": 450,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146290"
+      },
+      {
+        "goodsId": 3146286,
+        "goodsTitle": "登鼎Dintel 特级初榨橄榄油 500ml",
+        "price": "98.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152118405703.jpg",
+        "sortId": 463,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146286"
+      },
+      {
+        "goodsId": 3145063,
+        "goodsTitle": "荷兰皇后 爱尔兰 冻调味大西洋三文鱼片（欧芹胡椒柠檬味） 125g*3",
+        "price": "135.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051642447246.jpg",
+        "sortId": 498,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145063"
+      },
+      {
+        "goodsId": 3146302,
+        "goodsTitle": "金优口 泰国茉莉香米 2.5kg",
+        "price": "99.90",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152104516822.jpg",
+        "sortId": 514,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146302"
+      },
+      {
+        "goodsId": 3146308,
+        "goodsTitle": "拉菲罗斯柴尔德 特藏波尔多干红葡萄酒 750ml",
+        "price": "168.00",
+        "quantity": 49,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152055207493.jpg",
+        "sortId": 579,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146308"
+      },
+      {
+        "goodsId": 3146295,
+        "goodsTitle": "挪威 北极鳕 整条圆切/爱吃鱼 900g",
+        "price": "99.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152107341532.jpg",
+        "sortId": 596,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146295"
+      },
+      {
+        "goodsId": 3145065,
+        "goodsTitle": "广州酒家利口福 奶油花卷 270g*4",
+        "price": "79.20",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051546296234.jpg",
+        "sortId": 604,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145065"
+      },
+      {
+        "goodsId": 3146305,
+        "goodsTitle": "爱之湾 卡瓦双支礼盒装 750ml*2",
+        "price": "158.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152100221769.jpg",
+        "sortId": 608,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146305"
+      },
+      {
+        "goodsId": 3145062,
+        "goodsTitle": "喜福多 裙边扇贝 500g*2",
+        "price": "79.80",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051644352266.jpg",
+        "sortId": 689,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145062"
+      },
+      {
+        "goodsId": 3146291,
+        "goodsTitle": "恒兴恒 精选熟冻带头南美白虾 800g",
+        "price": "168.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152112447366.jpg",
+        "sortId": 725,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146291"
+      },
+      {
+        "goodsId": 3146296,
+        "goodsTitle": "大希地 麻辣虾球 350g （45-60只）",
+        "price": "69.00",
+        "quantity": 97,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152105321047.jpg",
+        "sortId": 779,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146296"
+      },
+      {
+        "goodsId": 3145064,
+        "goodsTitle": "内蒙古 调理小羊排/蒙羊 6片装 600g",
+        "price": "119.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051551466410.jpg",
+        "sortId": 862,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145064"
+      },
+      {
+        "goodsId": 3146285,
+        "goodsTitle": "柴火大院 五常有机稻花香大米 5kg",
+        "price": "168.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152120289002.jpg",
+        "sortId": 863,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146285"
+      },
+      {
+        "goodsId": 3146304,
+        "goodsTitle": "代康Dcome 葵花籽油 5L",
+        "price": "79.90",
+        "quantity": 97,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/15/201806152102112884.jpg",
+        "sortId": 891,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3146304"
+      },
+      {
+        "goodsId": 3145059,
+        "goodsTitle": "阿拉斯加 狭鳕鱼柳/海鲜盛宴ocean gala 400g*5",
+        "price": "145.00",
+        "quantity": 100,
+        "goodsType": 1,
+        "goodsImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201806/05/201806051650189807.jpg",
+        "sortId": 905,
+        "productUrl": "https://prod.vpclub.cn/wepn/wechat/app/#/gzh/market/detail?id=3145059"
+      }
+    ],
+    "sortId": 8,
+    "layoutType": 1
+  }
+}

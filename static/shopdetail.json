@@ -1,0 +1,23 @@
+{
+  "Code": "1000",
+  "data": {
+    "coverImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052228484160.jpg",
+    "detail": "<p class=\"MsoNormal\"> 	<span style=\"font-size:32px;\">买家注意：</span><span style=\"font-size:32px;\">西藏，青海，甘肃，新疆，宁夏，内蒙、海南、东北三省不发货，售后电话：</span><span style=\"font-size:32px;\">19923603239，由于核桃不打任何的农药，可能个别会出现虫子，介意者慎拍！！！！</span> </p> <p class=\"MsoNormal\"> 	<span style=\"font-size:32px;\"><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231185905.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231198718.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231206375.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231214344.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231221062.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231226687.png\" alt=\"\" /><img src=\"https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052231235281.png\" alt=\"\" /><br /> </span> </p>",
+    "images": {
+      "-xmlns:d3p1": "http://schemas.microsoft.com/2003/10/Serialization/Arrays",
+      "d3p1:string": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/201807/05/201807052229402762.jpg"
+    },
+    "isFreightFree": "true",
+    "isHot": "0",
+    "marketPrice": "98.00",
+    "memberPrice": "84.50",
+    "producId": "3147171",
+    "productName": "云南薄皮核桃5斤",
+    "sellCount": "15",
+    "sellPrice": "84.50",
+    "shareImage": "https://vpclub-img.oss-cn-shenzhen.aliyuncs.com/upload/88888888/shared/201807/05/201807052228484160_150_150.jpg",
+    "stock": "485",
+    "storeId": "0"
+  },
+  "Message": "成功"
+}
